@@ -1,0 +1,10 @@
+Functionality of the Forum:
+
+Chat box/status bar, where users can insert text of different variations  (questions, answers, reply, post links,post topics, send invitations for projects etc.)
+all of which will be allowed by different option button that the user can classify their post as a ex: Answer with links for more details on the question etc
+
+Like button:  which will give the users the ability to get attention from other users, that they are interested in or support whatever content other users post.
+after the like notification as been sent the user that posted the content will be notified of who liked their post (just like face book) BUT The power is now transfered to the user that liked the post, and in return they are given the option to subscribe to that users account , why? so that further interest can develop and other users (programmers,engineers, coders, and new techies) can collaborate on projects based of the original question and answers that sparked ideas for a solution (this website demands more than its users just able to chat and get answers to solve problems, this website is a site that brings together creative minds that will build the next generation of technology! just because a user got the answers they need doesn't really solve the problem build something that will effect everyone , this is how we eliminate the problems of trouble shooting completely) and BAMMMM we have coders organizing to create useful tools " theres an app for that" - meaning whatever issue you experience you can log in to this forum post content, receive feedback etc.
+
+After subscription the user the posted will now be given the option to agree to invitation to collaborate on a problem (syntax etc)
+then after agreeing and clicking yes another private forum will open up ( same web scheme just a private space for coders and non coders to work)
