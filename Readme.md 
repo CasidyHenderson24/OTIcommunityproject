@@ -1,0 +1,203 @@
+Read me file
+
+Topic: CSP Requiremenents 
+What information Chris (OTI) Send us in the email:
+Commotion Wireless Prototype Community Portal
+
+Website About OTI / NAF
+
+● The Open Technology Institute formulates policy and regulatory reforms to 
+
+support open architectures and open source innovations and facilitates the 
+
+development and implementation of open technologies and communications 
+
+networks. OTI promotes affordable, universal, and ubiquitous communications 
+
+networks through partnerships with communities, researchers, industry, 
+
+and public interest groups and is committed to maximizing the potentials of 
+
+innovative open technologies by studying their social and economic impacts – 
+
+particularly for poor, rural, and other underserved constituencies. OTI provides 
+
+in-depth, objective research, analysis, and findings for policy decision-makers and 
+
+the general public.
+
+● The New America Foundation is a nonprofit, nonpartisan public policy institute 
+
+that invests in new thinkers and new ideas to address the next generation of 
+
+challenges facing the United States.
+
+New America emphasizes work that is responsive to the changing conditions 
+
+and problems of our 21st Century information-age economy -- an era shaped by 
+
+transforming innovation and wealth creation, but also by shortened job tenures, 
+
+longer life spans, mobile capital, financial imbalances and rising inequality.
+
+Commotion
+
+● Commotion is a free, open-source communication tool that uses mobile phones, 
+
+computers, and other wireless devices to create decentralized mesh networks. 
+
+Commotion provides a way for to share Internet connections with the people 
+
+around you, and can also create local networks not connected to the Internet. It is 
+
+not a replacement for your Internet connection.
+
+Project Description
+
+● community.commotionwireless.net, will be a new social community support site, 
+
+deployed to provide multifaceted, multilingual, community generated support 
+
+resources, addressing the technical, social and policy issues in different regions 
+
+of the world. This site will complement and extend existing documentation 
+
+and email support by providing a platform for community contributed help 
+
+documentation and social interaction.
+
+Scope of Work:
+
+● Desired Features: 
+
+■ Community submitted docs
+
+■ Forums with commenting
+
+■ Social network integration components 
+
+■ User & roles
+
+● Community Contributors
+
+● Deliverables
+
+● Moderators/admins
+
+● Anonymous/Pseudonymous posting
+
+● Email contributions
+
+● Direct support requests
+
+■ Wireframes
+
+■ User Stories
+
+■ Prototype Community Forum Site
+
+Background
+
+● User Communities
+
+● Current communication channels
+
+■ Sayada, Tunisia:
+
+http://oti.newamerica.net/blogposts/2014/case_study_mesh_sayada-
+
+108362
+
+■ India & Nepal: 
+
+http://oti.newamerica.net/blogposts/2014/
+
+commotion_wireless_as_a_community_technology_lessons_from_commu
+
+nity_technologists_in_
+
+■ Somaliland: 
+
+https://commotionwireless.net/blog/2013/12/12/building-mesh-network-
+rural-somaliland/
+
+■ Red Hook: 
+
+http://oti.newamerica.net/blogposts/2013/
+
+case_study_red_hook_initiative_wifi_tidepools-78575
+
+https://commotionwireless.net/blog/category/red-hook/
+
+■ Detroit: https://commotionwireless.net/blog/category/detroit/
+
+■ Email
+
+● https://lists.chambana.net/pipermail/commotion-dev/
+
+● https://lists.chambana.net/pipermail/commotion-discuss/ 
+
+● Commotion Support Emails
+
+○ https://projects.opentechinstitute.org/projects/commotion-
+support 
+
+■ Blog
+
+● https://commotionwireless.net/blog/2014/06/12/commotion-pi-
+build-rpi-mesh-node/
+
+● https://commotionwireless.net/blog/2014/05/13/little-box-of-
+routers/
+
+● https://commotionwireless.net/blog/2014/02/04/exploring-
+commotion-wireshark-tutorial/
+
+■ Facebook: https://www.facebook.com/DigitalStewards
+
+■ Twitter: 
+
+#commotion: ● https://twitter.com/search?
+
+f=realtime&q=%23commotion&src=typd
+
+#digistew: ● https://twitter.com/search?
+
+f=realtime&q=%23digistew&src=typd
+
+● Example forums to explore:
+
+■ Prometheus LPFM Forum: http://radiospark.org/
+
+■ Stackoverflow: http://stackoverflow.com/
+
+■ Diaspora: https://diasporafoundation.org/ 
+
+■ Beautiful Trouble: http://beautifultrouble.org/ 
+
+■ Existing Social Media
+
+● Facebook groups for different networks
+
+● Twitter:
+
+● Tumblr:
+
+○ Detroit: https://www.facebook.com/DetroitDigitalStewards
+
+Italy: ○ https://www.facebook.com/pages/Commotion-
+Wireless-Fano/138757409627896
+
+○ Red Hook: https://www.facebook.com/RHWiFi
+
+○ https://twitter.com/search?
+
+f=realtime&q=%23commotion&src=typd
+
+○ https://twitter.com/search?
+
+f=realtime&q=%23digistew&src=typd
+
+○ http://detroitdigitalstewards.tumblr.com/
+
+○ http://rhidigitalstewards.tumblr.com/
