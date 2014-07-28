@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>File Upload Form</title>
+        <style type="text/css">
+        .thankyouModal {
+            display: none;
+            background: #FFF5DC;
+            color: #040240;
+            padding: 20px;
+            border: 10px solid #990100;
+            float: left;
+            font-size: 1.2em;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            z-index: 200;
+        }
+        </style>
+        <script src="jquery-1.6.4.min.js" type="text/javascript"></script>
+        <script src="fileUpload.js" type="text/javascript"></script>
+    </head>
+    <body>
+
+<h2> <center> Share files/documents with the community </center> </h2>
+<h2>Upload</h2>
+    <form enctype="multipart/form-data" name="fileUpload" id="uploadForm" action="processUpload.php" method="post">
+        <input type="hidden" name="MAX_FILE_SIZE" value="500000" />
+        <label class="label" for="upload">Select File: </label><input type="file" name="upload" id="upload" value="" size="48" /><br /><br />
+        <label class="label">&nbsp;</label><input type="submit" id="submitUpload" value="Upload" /><input type="reset" value="Clear" />
+    </form>
+
+
+
+    </body>
+</html>
